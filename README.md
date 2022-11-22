@@ -1,2 +1,2 @@
-# globfufs
+# globfurs
 Path obfuscation with rust
